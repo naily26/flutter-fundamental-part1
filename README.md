@@ -1,16 +1,91 @@
 # hello_world
 
-A new Flutter project.
+Nama    : Naily Ikmalul Insiyah
 
-## Getting Started
+## Praktikum 2
 
-This project is a starting point for a Flutter application.
+Berikut adalah hasil screenshoot dari praktikum 2:
 
-A few resources to get you started if this is your first Flutter project:
+![screenshoot hello_world](images/praktikum_2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum 3
+### Langkah 1 Text Widget
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut adalah hasil screenshoot dari praktikum 3 bagian text widget:
+
+![screenshoot hello_world](images/praktikum_3_1.png)
+
+### Langkah 1 Image Widget
+
+Berikut adalah hasil screenshoot dari praktikum 3 bagian image widget:
+
+![screenshoot hello_world](images/praktikum_3_1.png)
+
+
+## Praktikum 4
+### Langkah 1: Cupertino Button dan Loading Bar
+
+Berikut adalah hasil screenshoot dari praktikum 4 bagian Cupertino Button dan Loading Bar:
+
+![screenshoot hello_world](images/praktikum_4_3.png)
+
+### Langkah 2: Floating Action Button (FAB)
+
+Berikut adalah hasil screenshoot dari praktikum 4 bagian Floating Action Button (FAB):
+
+![screenshoot hello_world](images/praktikum_4_2.png)
+
+### Langkah 3: Scaffold Widget
+
+Berikut adalah hasil screenshoot dari praktikum 4 bagian Scaffold Widget:
+
+![screenshoot hello_world](images/praktikum_4_1.png)
+
+
+### Langkah 4: Dialog Widget
+
+Berikut adalah hasil screenshoot dari praktikum 4 bagian Dialog Widget:
+
+![screenshoot hello_world](images/praktikum_4_6.png)
+
+### Langkah 5: Input dan Selection Widget
+
+Berikut adalah hasil screenshoot dari praktikum 4 bagian Input dan Selection Widget:
+
+![screenshoot hello_world](images/praktikum_4_4.png)
+
+### Langkah 6: Date and Time Pickers
+
+Berikut adalah hasil screenshoot dari praktikum 4 bagian Date and Time Pickers:
+
+![screenshoot hello_world](images/praktikum_4_5.png)
+
+
+## TUGAS
+
+Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!
+
+### Tugas 1: Scaffold Widget
+
+Berikut adalah hasil screenshoot pembuatan file widget dari praktikum 4 bagian Scaffold Widget:
+
+![screenshoot hello_world](images/tugas_1.png)
+
+
+### Tugas 2: Dialog Widget
+
+Berikut adalah hasil screenshoot pembuatan file widget dari praktikum 4 bagian Dialog Widget:
+
+![screenshoot hello_world](images/tugas_2.png)
+
+### Tugas 3: Input dan Selection Widget
+
+Berikut adalah hasil screenshoot pembuatan file widget dari praktikum 4 bagian Input dan Selection Widget:
+
+![screenshoot hello_world](images/tugas_3.png)
+
+### Tugas 4: Date and Time Pickers
+
+Berikut adalah hasil screenshoot pembuatan file widget dari praktikum 4 bagian Date and Time Pickers:
+
+![screenshoot hello_world](images/tugas_4.png)
