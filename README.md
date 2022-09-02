@@ -19,7 +19,7 @@ Berikut adalah hasil screenshoot dari praktikum 3 bagian text widget:
 
 Berikut adalah hasil screenshoot dari praktikum 3 bagian image widget:
 
-![screenshoot hello_world](images/praktikum_3_1.png)
+![screenshoot hello_world](images/praktikum_3_2.png)
 
 
 ## Praktikum 4
